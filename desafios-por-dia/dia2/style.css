@@ -1,0 +1,98 @@
+body{
+	background-color: #eee98d;
+  font-size: 3vh;
+  color: #ff6161;
+  font-family: Candara, Impact,'Arial Narrow Bold', sans-serif ;
+  font-weight: bold;
+}
+
+.geral{
+  width: 99vw;
+	height: 95vh;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.encapsula{
+  width: 59vw;
+	height: 50vh;
+	padding: 5%;
+	display: flex;
+}
+
+.logo{
+	width: 40%;
+	margin: auto;
+}
+
+.foto{
+  max-width:100%;
+}
+
+.output{
+	padding:10px;
+	text-align: center;
+	width: 60%;
+}
+
+.resultados{
+	padding: 10px;
+	box-sizing: border-box; 
+}
+
+.entrada{
+	background-color: #e0f3ee;
+	border:2.5px solid #ff6161;
+	font-family: Candara, Impact,'Arial Narrow Bold', sans-serif ;
+	font-size: 3vh;
+	text-align: center;
+	width: 50%;
+}
+
+.hidden {
+	display: none;
+}
+
+.btn{
+	background-color: #b9efe1;
+	border: none;
+	padding: 3.5%;
+	cursor:pointer;
+	transition: .3s ease all;
+	font-family: Candara, Impact,'Arial Narrow Bold', sans-serif ;
+	font-size: 2vh;
+	text-align: center;
+}
+
+.btn:hover{
+	background-color: #383737;
+	color: #b9efe1;
+}
+
+@media screen and (max-width: 600px) {
+	body{
+		font-size: 2.5vh;
+	}
+
+  .encapsula {
+		width: 99vw;
+		height: 95vh;
+		display:block;
+  }
+	
+	.logo{
+		text-align: center;
+		width: 100%;
+	}
+	
+	.output{
+		text-align: center;
+		width: 100%;
+	}
+
+	.foto{
+		max-width:70%;
+	}
+}
