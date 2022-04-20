@@ -1,13 +1,13 @@
 # #7DaysOfCode
-> Projetos desenvolvidos no desafio **JavaScript e DOM** do [7DaysOfCode](https://joi-gn.github.io/INSTAGRAMLOGINPAGE-recriando-interface-instagram/).
+> Projetos desenvolvidos no desafio **JavaScript e DOM** do [7DaysOfCode](https://7daysofcode.io/).
 
 
-#### :new moon: 1/7 - Operações Booleanas.   
+#### 1/7 - Operações Booleanas.   
 Tipo e declaração de variáveis.
 Estrutura de ramificação if/else.
 
 
-#### :waxing crescent moon: 2/7 - Variáveis.  
+#### 2/7 - Variáveis.  
 
 Trabalhar com valores de entrada.
 Utilizar console.log, prompt e alert.
@@ -16,16 +16,16 @@ Utilizar console.log, prompt e alert.
 
 
 
-#### :first quarter moon:
+#### 3/7
 
 
-#### :full moon:
+#### 4/7
 
 
-#### :waning gibbous moon:
+#### 5/7
 
 
-#### :last quarter moon:
+#### 6/7
 
 
-#### :waning crescent moon:
+#### 7/7
